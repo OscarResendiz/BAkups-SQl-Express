@@ -1,0 +1,837 @@
+05/05/2010 06:37:10 p.m.	Se Cerro la aplicación
+05/05/2010 06:44:32 p.m.	Se inicio la aplicación
+05/05/2010 06:45:12 p.m.	Se Cerro la aplicación
+17/05/2010 11:11:40 a.m.	Se inicio la aplicación
+17/05/2010 11:11:50 a.m.	Se Cerro la aplicación
+17/05/2010 11:13:05 a.m.	Se inicio la aplicación
+17/05/2010 11:13:29 a.m.	Se Cerro la aplicación
+17/05/2010 11:13:46 a.m.	Se inicio la aplicación
+17/05/2010 11:15:03 a.m.	inicia Respaldo de: PDV
+17/05/2010 11:15:08 a.m.	Se genero el respaldo de la base de datos PDV
+17/05/2010 11:16:33 a.m.	Se inicio la aplicación
+17/05/2010 11:17:45 a.m.	inicia Respaldo de: PDV
+17/05/2010 11:17:53 a.m.	Se genero el respaldo de la base de datos PDV
+17/05/2010 11:18:01 a.m.	inicia Respaldo de: PROYECTOS
+17/05/2010 11:18:04 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\Curso de C\sistemas digitales.doc'.
+17/05/2010 11:18:58 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\TEV-CON-PDU-00\~$cumento de analisis.doc'.
+17/05/2010 11:19:15 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\TWI\~$stema de Clasificación Automática TWI 200 express.docx'.
+17/05/2010 11:19:15 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\TWI\~WRL0005.tmp'.
+17/05/2010 11:19:19 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\PROYECTOS NET 2005\SAP_3.2.21\MSSCCPRJ.SCC'.
+17/05/2010 11:21:50 a.m.	Se inicio la aplicación
+17/05/2010 11:22:06 a.m.	inicia Respaldo de: PROYECTOS
+17/05/2010 11:22:10 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\Curso de C\sistemas digitales.doc'.
+17/05/2010 11:22:59 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\TEV-CON-PDU-00\~$cumento de analisis.doc'.
+17/05/2010 11:23:15 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\TWI\~$stema de Clasificación Automática TWI 200 express.docx'.
+17/05/2010 11:23:15 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\TWI\~WRL0005.tmp'.
+17/05/2010 11:23:19 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\PROYECTOS NET 2005\SAP_3.2.21\MSSCCPRJ.SCC'.
+17/05/2010 11:23:43 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\PROYECTOS NET 2008\SAP_3.2.21\MSSCCPRJ.SCC'.
+17/05/2010 11:25:27 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Analisis\~$analisis de diferencias.xlsx'.
+17/05/2010 11:25:45 a.m.	El proceso no tiene acceso al archivo porque otro proceso tiene bloqueada una parte del archivo.
+
+17/05/2010 11:25:45 a.m.	Acceso denegado a la ruta de acceso 'E:\PROYECTOS\INTERMEX\SAP\Outlook\~Intermex.pst.tmp'.
+17/05/2010 11:25:48 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\TEV-CON-PDU-00\SAP_3.3.X - copia\MSSCCPRJ.SCC'.
+17/05/2010 11:25:51 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\TEV-CON-PDU-00\SAP_3.3.X - copia (2)\MSSCCPRJ.SCC'.
+17/05/2010 11:25:56 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\TEV-CON-PDU-00\SAP_3.3.X - copia (3)\MSSCCPRJ.SCC'.
+17/05/2010 11:26:01 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\TEV-CON-PDU-00\SAP_3.3.X - copia (4)\MSSCCPRJ.SCC'.
+17/05/2010 11:27:14 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\PROYECTOS NET 2008\MOTOROLA MX\Documentacion\~$ocesos_para_productos_Fuera_de_Libros.doc'.
+17/05/2010 11:27:14 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\PROYECTOS NET 2008\MOTOROLA MX\Documentacion\~$opuesta para el sistema para productos fuera de libros.docx'.
+17/05/2010 11:37:15 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\PROYECTOS NET 2008\Sistema de control telefonico\Documentacion\Nueva informacion\mscomm\MSSCCPRJ.SCC'.
+17/05/2010 11:38:24 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\E1000.cat'.
+17/05/2010 11:38:24 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\E100BW2K.CAT'.
+17/05/2010 11:38:24 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\NET8254X.INF'.
+17/05/2010 11:38:24 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\NETi557x.INF'.
+17/05/2010 11:38:24 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC 1\b57w2k.sys'.
+17/05/2010 11:38:24 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC 1\b57win32.inf'.
+17/05/2010 11:38:24 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC 1\b57xp32.sys'.
+17/05/2010 11:38:31 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\Antrior SAP_3.3.0\MSSCCPRJ.SCC'.
+17/05/2010 11:38:33 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.2.19\MSSCCPRJ.SCC'.
+17/05/2010 11:38:35 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.2.20\MSSCCPRJ.SCC'.
+17/05/2010 11:38:36 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.2.21\MSSCCPRJ.SCC'.
+17/05/2010 11:38:38 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.2.21 - copia\MSSCCPRJ.SCC'.
+17/05/2010 11:38:41 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.2.21 - copia (2)\MSSCCPRJ.SCC'.
+17/05/2010 11:38:42 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.0\MSSCCPRJ.SCC'.
+17/05/2010 11:38:47 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.10\MSSCCPRJ.SCC'.
+17/05/2010 11:38:50 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.2\MSSCCPRJ.SCC'.
+17/05/2010 11:38:52 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.2 - copia\MSSCCPRJ.SCC'.
+17/05/2010 11:38:54 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.3\MSSCCPRJ.SCC'.
+17/05/2010 11:38:57 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.4\MSSCCPRJ.SCC'.
+17/05/2010 11:38:59 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.5\MSSCCPRJ.SCC'.
+17/05/2010 11:39:02 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.6\MSSCCPRJ.SCC'.
+17/05/2010 11:39:05 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.7\MSSCCPRJ.SCC'.
+17/05/2010 11:39:08 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.8\MSSCCPRJ.SCC'.
+17/05/2010 11:39:11 a.m.	Acceso denegado a la ruta de acceso 'H:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.9\MSSCCPRJ.SCC'.
+29/11/2010 01:39:23 p.m.	Se Cerro la aplicación
+29/11/2010 01:39:23 p.m.	Se inicio la aplicación
+29/11/2010 01:41:33 p.m.	Se inicio la aplicación
+29/11/2010 01:43:40 p.m.	inicia Respaldo de: Proyectos
+29/11/2010 01:44:10 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\Curso de C\sistemas digitales.doc'.
+29/11/2010 01:46:19 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\Activex\HSRichEdit\MSSCCPRJ.SCC'.
+29/11/2010 01:50:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\SAP_3.2.21\MSSCCPRJ.SCC'.
+29/11/2010 01:52:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2008\SAP_3.2.21\MSSCCPRJ.SCC'.
+29/11/2010 01:55:39 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\TEV-CON-PDU-00\SAP_3.3.X - copia\MSSCCPRJ.SCC'.
+29/11/2010 01:55:41 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\TEV-CON-PDU-00\SAP_3.3.X - copia (2)\MSSCCPRJ.SCC'.
+29/11/2010 01:55:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\TEV-CON-PDU-00\SAP_3.3.X - copia (3)\MSSCCPRJ.SCC'.
+29/11/2010 01:55:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\TEV-CON-PDU-00\SAP_3.3.X - copia (4)\MSSCCPRJ.SCC'.
+29/11/2010 02:00:44 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\ActiveDirectoryWrapper.cd'.
+29/11/2010 02:00:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\ActiveDirectoryWrapper.csproj'.
+29/11/2010 02:00:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\ActiveDirectoryWrapper.csproj.vspscc'.
+29/11/2010 02:00:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\ActiveDirectoryWrapper.snk'.
+29/11/2010 02:00:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\ADManager.cs'.
+29/11/2010 02:00:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\ADUser.cs'.
+29/11/2010 02:00:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\mssccprj.scc'.
+29/11/2010 02:00:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\Utility.cs'.
+29/11/2010 02:00:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\vssver2.scc'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Alveus.Web.cd'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Alveus.Web.csproj'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Alveus.Web.csproj.vspscc'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Alveus.Web.snk'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\AzManSiteMapProvider.cs'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\ErrorEvent.cs'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\mssccprj.scc'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\vssver2.scc'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnifiacionOE.Ordenes.DataAccess\build_Sandcastle.bat'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnifiacionOE.Ordenes.DataAccess\Cache.cs'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnifiacionOE.Ordenes.DataAccess\mssccprj.scc'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnifiacionOE.Ordenes.DataAccess\Televisa.UnificacionOE.snk'.
+29/11/2010 02:00:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnifiacionOE.Ordenes.DataAccess\vssver2.scc'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities\mssccprj.scc'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities.csproj'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities.csproj.vspscc'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities\TemporalDataBase.cs'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities\vssver2.scc'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.DataAccess\IntegrationUCTV0703.cs'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.DataAccess\mssccprj.scc'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.DataAccess\Televisa.BTSUnificacionOE.BizTalk.DataAccess.csproj'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.DataAccess\Televisa.BTSUnificacionOE.BizTalk.DataAccess.csproj.vspscc'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.DataAccess\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:00:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.DataAccess\vssver2.scc'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BusinessRules.Core\mssccprj.scc'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BusinessRules.Core\PoliticasCompartidas.cs'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BusinessRules.Core\Televisa.BTSUnificacionOE.BusinessRules.Core.csproj'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BusinessRules.Core\Televisa.BTSUnificacionOE.BusinessRules.Core.csproj.vspscc'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BusinessRules.Core\Televisa.UnificacionOE.snk'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BusinessRules.Core\TelevisoraJC.cs'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BusinessRules.Core\TelevisoraNL.cs'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BusinessRules.Core\vssver2.scc'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\app.config'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\mssccprj.scc'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Televisa.BTSUnificacionOE.clsRequestConCom.csproj'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Televisa.BTSUnificacionOE.clsRequestConCom.csproj.vspscc'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Televisa.BTSUnificacionOE.clsRequestConCom.XmlSerializers.dll'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Televisa.UnificacionOE.snk'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\vssver2.scc'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\wsConnect.cs'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Common\mssccprj.scc'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Common\Orders.cs'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Common\OrdersBusinessAction.cs'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Common\SelectedOrders.cs'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Common\Televisa.BTSUnificacionOE.Common.csproj'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Common\Televisa.BTSUnificacionOE.Common.csproj.vspscc'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Common\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:00:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Common\vssver2.scc'.
+29/11/2010 02:00:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Configuration\ConfigurationFile.cs'.
+29/11/2010 02:00:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Configuration\mssccprj.scc'.
+29/11/2010 02:00:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Configuration\Televisa.BTSUnificacionOE.Configuration.csproj'.
+29/11/2010 02:00:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Configuration\Televisa.BTSUnificacionOE.Configuration.csproj.vspscc'.
+29/11/2010 02:00:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Configuration\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:00:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Configuration\vssver2.scc'.
+29/11/2010 02:00:57 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\mssccprj.scc'.
+29/11/2010 02:00:57 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\OrderAccess.cs'.
+29/11/2010 02:00:57 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\OrderFormats.cs'.
+29/11/2010 02:00:57 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\Televisa.BTSUnificacionOE.Core.cd'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\Televisa.BTSUnificacionOE.Core.csproj'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\Televisa.BTSUnificacionOE.Core.csproj.vspscc'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\vssver2.scc'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\WebCoreBE.cs'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\AssemblyInfo.cs'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\Db2AddParameter.cs'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\Db2Helper.cs'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\DB2Parameter.cs'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\Microsoft.ApplicationBlocks.Data.suo'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\mssccprj.scc'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\SQLHelper.cs'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\Televisa.BTSUnificacionOE.DataAccess.csproj'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\Televisa.BTSUnificacionOE.DataAccess.csproj.vspscc'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:00:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess\vssver2.scc'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\ClassDiagram1.cd'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\CommonDA.cs'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\mssccprj.scc'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\OperationStatusDA.cs'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\SalesForcesDA.cs'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\Televisa.BTSUnificacionOE.DataAccess.Entities.csproj'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\Televisa.BTSUnificacionOE.DataAccess.Entities.csproj.vspscc'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\vssver2.scc'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataBase\Televisa.BTSUnificacionOE.DataBase.csproj'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataBase\Televisa.BTSUnificacionOE.DataBase.csproj.vspscc'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataBase\vssver2.scc'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\app.config'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\clsEncabezado.cs'.
+29/11/2010 02:00:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\clsErrorDetail.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\clsFranjas.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\clsLinea.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\clsRate.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\clsSemanaConfirmacion.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\clsTrimestres.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\clsValidationSummary.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Copy of clsAutorizaciones.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\DataBaseInformation.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\DBStruct.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\MensajeParadigm.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Message.cs'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\mssccprj.scc'.
+29/11/2010 02:01:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\SendToConditions.cs'.
+29/11/2010 02:01:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Televisa.BTSUnificacionOE.DataIntegration.csproj'.
+29/11/2010 02:01:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Televisa.BTSUnificacionOE.DataIntegration.csproj.vspscc'.
+29/11/2010 02:01:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Televisa.BTSUnificacionOE.DataIntegration.XmlSerializers.dll'.
+29/11/2010 02:01:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Televisa.UnificacionOE.snk'.
+29/11/2010 02:01:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\TemporalDataBase.cs'.
+29/11/2010 02:01:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\TipoServicio.cs'.
+29/11/2010 02:01:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\UniqueSchema.cs'.
+29/11/2010 02:01:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\vssver2.scc'.
+29/11/2010 02:01:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\XMLSchemaValidator.cs'.
+29/11/2010 02:01:02 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Core\Class1.cs'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Core\IntegrationDataBase.cs'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Core\mssccprj.scc'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Core\Televisa.BTSUnificacionOE.DataIntegration.Core.csproj'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Core\Televisa.BTSUnificacionOE.DataIntegration.Core.csproj.vspscc'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Core\Televisa.UnificacionOE.snk'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Core\vssver2.scc'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\app.config'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\mssccprj.scc'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes.csproj'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes.csproj.vspscc'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Televisa.UnificacionOE.snk'.
+29/11/2010 02:01:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\vssver2.scc'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.PoleoOrdenes\mssccprj.scc'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.PoleoOrdenes\PoleoOrdenes.cd'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.PoleoOrdenes\Televisa.UnificacionOE.snk'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.PoleoOrdenes\vssver2.scc'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\App.config'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\AppTest.cs'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\AppTest.Designer.cs'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\AppTest.resx'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\mssccprj.scc'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\Program.cs'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\Televisa.BTSUnificacionOE.DataIntegration.Test.csproj.vspscc'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\vssver2.scc'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\clsExcel.cs'.
+29/11/2010 02:01:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\clsOpenExcelProperties.cs'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\DisassemblerComponent.cs'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\mssccprj.scc'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\OrderExcelToXml.cs'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Resource.Designer.cs'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Resource.resx'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Televisa.BTSUnificacionOE.Decoder.cd'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Televisa.BTSUnificacionOE.Decoder.csproj'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Televisa.BTSUnificacionOE.Decoder.csproj.vspscc'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Televisa.BTSUnificacionOE.Decoder.suo'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\vssver2.scc'.
+29/11/2010 02:01:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\XMLParser.cs'.
+29/11/2010 02:01:06 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.FuerzaVentas\App.config'.
+29/11/2010 02:01:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.FuerzaVentas\FVParadigm.cs'.
+29/11/2010 02:01:09 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.FuerzaVentas\mssccprj.scc'.
+29/11/2010 02:01:09 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.FuerzaVentas\Televisa.BTSUnificacionOE.FuerzaVentas.suo'.
+29/11/2010 02:01:09 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.FuerzaVentas\Televisa.UnificacionOE.snk'.
+29/11/2010 02:01:09 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.FuerzaVentas\vssver2.scc'.
+29/11/2010 02:01:09 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.GenericComponent\GenericComponent.cs'.
+29/11/2010 02:01:10 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.GenericComponent\mssccprj.scc'.
+29/11/2010 02:01:10 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.GenericComponent\Televisa.BTSUnificacionOE.GenericComponent.csproj'.
+29/11/2010 02:01:10 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.GenericComponent\Televisa.BTSUnificacionOE.GenericComponent.csproj.vspscc'.
+29/11/2010 02:01:10 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.GenericComponent\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:01:10 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.GenericComponent\vssver2.scc'.
+29/11/2010 02:01:10 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Mail\HandlingMail.cs'.
+29/11/2010 02:01:10 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Mail\mssccprj.scc'.
+29/11/2010 02:01:11 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Mail\Televisa.BTSUnificacionOE.Mail.csproj'.
+29/11/2010 02:01:11 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Mail\Televisa.BTSUnificacionOE.Mail.csproj.vspscc'.
+29/11/2010 02:01:11 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Mail\Televisa.UnificacionOE.snk'.
+29/11/2010 02:01:11 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Mail\vssver2.scc'.
+29/11/2010 02:01:12 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\ApplySalesForceOrchestration.odx'.
+29/11/2010 02:01:12 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\BRTest.odx'.
+29/11/2010 02:01:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\CABLESKYOrchestration.odx'.
+29/11/2010 02:01:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\callService.odx'.
+29/11/2010 02:01:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\callWSrequestConCom.odx'.
+29/11/2010 02:01:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\CUTINOrchestration.odx'.
+29/11/2010 02:01:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\DataBaseIntegrationOrchestration.odx'.
+29/11/2010 02:01:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\GetNonProcessOrdersOrchestration.odx'.
+29/11/2010 02:01:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\GetNonProcessOrdersOrchestration.odx.bck'.
+29/11/2010 02:01:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\GetNonProcessOrdersOrchestration.odx.cs.bck'.
+29/11/2010 02:01:14 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\InsertBitacoraOrchestration.odx'.
+29/11/2010 02:01:14 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\IntegrationToPARADIGMOrchestration.odx'.
+29/11/2010 02:01:14 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\MailAuthorizationOrchestration.odx'.
+29/11/2010 02:01:14 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\MERCAOrchestration.odx'.
+29/11/2010 02:01:14 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\MPlanningIntegratedOrchestration.odx'.
+29/11/2010 02:01:14 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\OrderExcelMailOrchestration.odx'.
+29/11/2010 02:01:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\OrdwebIntegratedOrchestration.odx'.
+29/11/2010 02:01:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\PropertySchema.xsd'.
+29/11/2010 02:01:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\ReceivePipeline1.btp'.
+29/11/2010 02:01:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\SemanaConfirmacionOrchestration.odx'.
+29/11/2010 02:01:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\SendRequestToConComOrchestration.odx'.
+29/11/2010 02:01:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\SorianaIntegratedOrchestration.odx'.
+29/11/2010 02:01:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\SQLService_Trigger.xsd'.
+29/11/2010 02:01:16 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\TNCENAOrchestration.odx'.
+29/11/2010 02:01:16 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\TutvIntegratedOrchestration.odx'.
+29/11/2010 02:01:16 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\TvpagaIntegratedOrchestration.odx'.
+29/11/2010 02:01:16 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\TwoIntegratedOrchestration.odx'.
+29/11/2010 02:01:16 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\TwoNewVersionIntegratedOrchestration.odx'.
+29/11/2010 02:01:16 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\UniqueIntegratedOrchestration.odx'.
+29/11/2010 02:01:16 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\vssver2.scc'.
+29/11/2010 02:01:16 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\app.config'.
+29/11/2010 02:01:17 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\mssccprj.scc'.
+29/11/2010 02:01:17 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Ordenes.xsd'.
+29/11/2010 02:01:17 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\ORDHDR.xsd'.
+29/11/2010 02:01:19 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Televisa.UnificacionOE.snk'.
+29/11/2010 02:01:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\vssver2.scc'.
+29/11/2010 02:01:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.OrderStatus\mssccprj.scc'.
+29/11/2010 02:01:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.OrderStatus\OperationStatus.cs'.
+29/11/2010 02:01:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.OrderStatus\ReprocessOrder.cs'.
+29/11/2010 02:01:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.OrderStatus\Televisa.BTSUnificacionOE.OrderStatus.csproj'.
+29/11/2010 02:01:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.OrderStatus\Televisa.BTSUnificacionOE.OrderStatus.csproj.vspscc'.
+29/11/2010 02:01:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.OrderStatus\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:01:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.OrderStatus\vssver2.scc'.
+29/11/2010 02:01:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\clsExcel.cs'.
+29/11/2010 02:01:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\clsExcelFormat.cs'.
+29/11/2010 02:01:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\clsOpenExcelProperties.cs'.
+29/11/2010 02:01:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\mssccprj.scc'.
+29/11/2010 02:01:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:01:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\Televisa.BTSUnificacionOE.ProcessExcel.csproj'.
+29/11/2010 02:01:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\Televisa.BTSUnificacionOE.ProcessExcel.csproj.vspscc'.
+29/11/2010 02:01:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\Televisa.UnificacionOE.snk'.
+29/11/2010 02:01:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\vssver2.scc'.
+29/11/2010 02:01:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\mssccprj.scc'.
+29/11/2010 02:01:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\Response.cs'.
+29/11/2010 02:01:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\ResponseDA.cs'.
+29/11/2010 02:01:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:01:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\Televisa.BTSUnificacionOE.ResponseConCom.csproj'.
+29/11/2010 02:01:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\Televisa.BTSUnificacionOE.ResponseConCom.csproj.vspscc'.
+29/11/2010 02:01:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\VerificaXML.cs'.
+29/11/2010 02:01:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\vssver2.scc'.
+29/11/2010 02:01:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\XmlSerializationHelper.cs'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Security\CryptorEngine.cs'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Security\mssccprj.scc'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Security\Televisa.BTSUnificacionOE.Security.csproj'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Security\Televisa.BTSUnificacionOE.Security.csproj.vspscc'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Security\Televisa.UnificacionOE.snk'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Security\UniqueToIntegratedMap.btm'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Security\vssver2.scc'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Unified\mssccprj.scc'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Unified\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Unified\Televisa.BTSUnificacionOE.Unified.csproj'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Unified\Televisa.BTSUnificacionOE.Unified.csproj.vspscc'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Unified\UnifiedOrders.cs'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Unified\vssver2.scc'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Unified\XmlSerializationHelper.cs'.
+29/11/2010 02:01:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.UsersInformation\mssccprj.scc'.
+29/11/2010 02:01:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.UsersInformation\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:01:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.UsersInformation\Televisa.BTSUnificacionOE.UsersInformation.csproj'.
+29/11/2010 02:01:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.UsersInformation\Televisa.BTSUnificacionOE.UsersInformation.csproj.vspscc'.
+29/11/2010 02:01:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.UsersInformation\Users.cs'.
+29/11/2010 02:01:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.UsersInformation\vssver2.scc'.
+29/11/2010 02:01:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\CopyByOrderManager.aspx'.
+29/11/2010 02:01:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\CopyByOrderManager.aspx.cs'.
+29/11/2010 02:01:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Default.aspx'.
+29/11/2010 02:01:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Default.aspx.cs'.
+29/11/2010 02:01:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Download.aspx'.
+29/11/2010 02:01:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Download.aspx.cs'.
+29/11/2010 02:01:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\DownloadAdmon.aspx'.
+29/11/2010 02:01:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\DownloadAdmon.aspx.cs'.
+29/11/2010 02:01:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\EditLine.aspx'.
+29/11/2010 02:01:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\EditOrder.aspx'.
+29/11/2010 02:01:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\GenericError.aspx'.
+29/11/2010 02:01:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\GenericError.aspx.cs'.
+29/11/2010 02:01:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Global.asax'.
+29/11/2010 02:01:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\LoginPage.aspx'.
+29/11/2010 02:01:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\LoginPage.aspx.cs'.
+29/11/2010 02:01:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\MailAuthorizationConfig.aspx'.
+29/11/2010 02:01:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\NotificationsExternalUsers.aspx'.
+29/11/2010 02:01:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\NotificationsExternalUsers.aspx.cs'.
+29/11/2010 02:01:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\NotificationsSalesForcesUsers.aspx'.
+29/11/2010 02:01:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\NotificationsSalesForcesUsers.aspx.cs'.
+29/11/2010 02:01:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\OrderAuthorization.aspx'.
+29/11/2010 02:01:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\OrdersDetail.aspx'.
+29/11/2010 02:01:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\OrdersStatus.aspx'.
+29/11/2010 02:01:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\OrdersStatus.aspx.cs'.
+29/11/2010 02:01:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\OutsideTime.aspx'.
+29/11/2010 02:01:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\OutsideTime.aspx.cs'.
+29/11/2010 02:01:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Password.aspx'.
+29/11/2010 02:01:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Password.aspx.cs'.
+29/11/2010 02:01:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\PrintConfig.aspx'.
+29/11/2010 02:01:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\PrintConfig.aspx.cs'.
+29/11/2010 02:01:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\PrintOrder.aspx'.
+29/11/2010 02:01:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\PrintOrder.aspx.cs'.
+29/11/2010 02:01:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\ScreenResolution.aspx'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\ScreenResolution.aspx.cs'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\StatusByOrder.aspx'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\StatusByOrder.aspx.cs'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\UploadOrders.aspx'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\UploadOrders.aspx.cs'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\ValidationUsersConfig.aspx'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\vssver2.scc'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Web.Config'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Web.sitemap'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.AzManOp\AzManVal.asmx'.
+29/11/2010 02:01:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.AzManOp\vssver2.scc'.
+29/11/2010 02:01:31 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.AzManOp\Web.Config'.
+29/11/2010 02:01:31 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFile\clsExcelReader.cs'.
+29/11/2010 02:01:32 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\ReceiveFile.asmx'.
+29/11/2010 02:01:32 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\vssver2.scc'.
+29/11/2010 02:01:32 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\Web.config'.
+29/11/2010 02:01:32 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni.Users\Default.aspx'.
+29/11/2010 02:01:32 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni.Users\Default.aspx.cs'.
+29/11/2010 02:01:32 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni.Users\vssver2.scc'.
+29/11/2010 02:01:32 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni.Users\Web.Config'.
+29/11/2010 02:01:33 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\ResponseFromConCom.asmx'.
+29/11/2010 02:01:33 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\vssver2.scc'.
+29/11/2010 02:01:33 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Web.Config'.
+29/11/2010 02:01:33 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.Users\UsersMail.asmx'.
+29/11/2010 02:01:33 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.Users\vssver2.scc'.
+29/11/2010 02:01:33 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.Users\Web.config'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.Exceptions\mssccprj.scc'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.Exceptions\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.Exceptions\Televisa.Exceptions.csproj'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.Exceptions\Televisa.Exceptions.csproj.vspscc'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.Exceptions\TelevisaExceptions.cs'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.Exceptions\vssver2.scc'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.XmlSerializer\mssccprj.scc'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.XmlSerializer\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.XmlSerializer\Televisa.XmlSerializer.csproj'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.XmlSerializer\Televisa.XmlSerializer.csproj.vspscc'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.XmlSerializer\vssver2.scc'.
+29/11/2010 02:01:34 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.XmlSerializer\XmlSerializationHelper.cs'.
+29/11/2010 02:11:56 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\Properties\AssemblyInfo.cs'.
+29/11/2010 02:11:57 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\ActiveDirectoryWrapper\Properties\vssver2.scc'.
+29/11/2010 02:11:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Properties\AssemblyInfo.cs'.
+29/11/2010 02:11:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Properties\vssver2.scc'.
+29/11/2010 02:11:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Security\ActiveDirectoryMembershipProvider.cs'.
+29/11/2010 02:11:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Security\ActiveDirectoryMembershipUser.cs'.
+29/11/2010 02:11:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Security\AzManApp.cs'.
+29/11/2010 02:11:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Security\AzManGroup.cs'.
+29/11/2010 02:12:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Security\AzManPermission.cs'.
+29/11/2010 02:12:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Security\AzManRole.cs'.
+29/11/2010 02:12:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Security\AzManRoleProvider.cs'.
+29/11/2010 02:12:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Security\AzManSecurityCheckAttribute.cs'.
+29/11/2010 02:12:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Security\AzManWebEvent.cs'.
+29/11/2010 02:12:02 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Alveus.Web\Security\vssver2.scc'.
+29/11/2010 02:12:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnifiacionOE.Ordenes.DataAccess\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:06 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnifiacionOE.Ordenes.DataAccess\Properties\vssver2.scc'.
+29/11/2010 02:12:10 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:10 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities\Properties\vssver2.scc'.
+29/11/2010 02:12:11 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.DataAccess\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:11 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BizTalk.DataAccess\Properties\vssver2.scc'.
+29/11/2010 02:12:12 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BusinessRules.Core\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:12 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.BusinessRules.Core\Properties\vssver2.scc'.
+29/11/2010 02:12:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Properties\Settings.Designer.cs'.
+29/11/2010 02:12:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Properties\Settings.settings'.
+29/11/2010 02:12:16 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Properties\vssver2.scc'.
+29/11/2010 02:12:17 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Common\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:17 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Common\Properties\vssver2.scc'.
+29/11/2010 02:12:19 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Configuration\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:19 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Configuration\Properties\vssver2.scc'.
+29/11/2010 02:12:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Core\Properties\vssver2.scc'.
+29/11/2010 02:12:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataAccess.Entities\Properties\vssver2.scc'.
+29/11/2010 02:12:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataBase\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataBase\Properties\vssver2.scc'.
+29/11/2010 02:12:40 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:40 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Properties\Settings.Designer.cs'.
+29/11/2010 02:12:41 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Properties\Settings.settings'.
+29/11/2010 02:12:41 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Properties\vssver2.scc'.
+29/11/2010 02:12:42 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Core\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:42 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Core\Properties\vssver2.scc'.
+29/11/2010 02:12:44 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:44 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Properties\Settings.Designer.cs'.
+29/11/2010 02:12:45 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Properties\Settings.settings'.
+29/11/2010 02:12:45 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Properties\vssver2.scc'.
+29/11/2010 02:12:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.PoleoOrdenes\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.PoleoOrdenes\Properties\vssver2.scc'.
+29/11/2010 02:12:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\Properties\Resources.Designer.cs'.
+29/11/2010 02:12:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\Properties\Resources.resx'.
+29/11/2010 02:12:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\Properties\Settings.Designer.cs'.
+29/11/2010 02:12:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\Properties\Settings.settings'.
+29/11/2010 02:12:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.Test\Properties\vssver2.scc'.
+29/11/2010 02:12:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Properties\vssver2.scc'.
+29/11/2010 02:12:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Resources\2uzlrjek.xsd'.
+29/11/2010 02:12:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Resources\FlatFile.bmp'.
+29/11/2010 02:12:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Decoder\Resources\vssver2.scc'.
+29/11/2010 02:12:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ExcelBTSPipeLine\AsignacionClassLibrary\mssccprj.scc'.
+29/11/2010 02:12:56 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.FuerzaVentas\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:57 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.FuerzaVentas\Properties\vssver2.scc'.
+29/11/2010 02:12:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.GenericComponent\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.GenericComponent\Properties\vssver2.scc'.
+29/11/2010 02:12:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Mail\Properties\AssemblyInfo.cs'.
+29/11/2010 02:12:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Mail\Properties\vssver2.scc'.
+29/11/2010 02:13:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Maps\ConvertToRequestConComMap.btm'.
+29/11/2010 02:13:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Maps\MPlanningToIntegratedMap.btm'.
+29/11/2010 02:13:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Maps\OrdwebToIntegratedMap.btm'.
+29/11/2010 02:13:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Maps\SorianaToIntegratedMap.btm'.
+29/11/2010 02:13:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Maps\TutvToIntegratedMap.btm'.
+29/11/2010 02:13:02 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Maps\TvpagaToIntegatedMap.btm'.
+29/11/2010 02:13:02 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Maps\TwoNewVersionToIntegratedMap.btm'.
+29/11/2010 02:13:02 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Maps\TwoToIntegratedMap.btm'.
+29/11/2010 02:13:02 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Maps\UniqueToIntegratedMap.btm'.
+29/11/2010 02:13:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Maps\vssver2.scc'.
+29/11/2010 02:13:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Pipelines\MailReceivePipeline.btp'.
+29/11/2010 02:13:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Pipelines\ReceiveOrdersPipeline.btp'.
+29/11/2010 02:13:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Pipelines\vssver2.scc'.
+29/11/2010 02:13:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\IntegratedSchema.xsd'.
+29/11/2010 02:13:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\LineSchema.xsd'.
+29/11/2010 02:13:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\MailFileSchema.xsd'.
+29/11/2010 02:13:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\MPlanningSchema.xsd'.
+29/11/2010 02:13:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\OrderMailSchema.xsd'.
+29/11/2010 02:13:06 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\OrderSchema.xsd'.
+29/11/2010 02:13:06 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\ORDHDRSchema.xsd'.
+29/11/2010 02:13:06 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\ORDHDRSchema.xsd.bck'.
+29/11/2010 02:13:07 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\OrdwebSchema.xsd'.
+29/11/2010 02:13:07 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\RequestConditionsSchema.xsd'.
+29/11/2010 02:13:07 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\TutvSchema.xsd'.
+29/11/2010 02:13:07 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\TvpagaSchema.xsd'.
+29/11/2010 02:13:07 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\TwoNewVersionSchema.xsd'.
+29/11/2010 02:13:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\TwoSchema.xsd'.
+29/11/2010 02:13:09 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\TxtSchema.xsd'.
+29/11/2010 02:13:09 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\UniqueSchema.xsd'.
+29/11/2010 02:13:09 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Schemas\vssver2.scc'.
+29/11/2010 02:13:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Properties\AssemblyInfo.cs'.
+29/11/2010 02:13:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Properties\Settings.Designer.cs'.
+29/11/2010 02:13:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Properties\Settings.settings'.
+29/11/2010 02:13:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Properties\vssver2.scc'.
+29/11/2010 02:13:14 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.OrderStatus\Properties\AssemblyInfo.cs'.
+29/11/2010 02:13:14 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.OrderStatus\Properties\vssver2.scc'.
+29/11/2010 02:13:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\Properties\AssemblyInfo.cs'.
+29/11/2010 02:13:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ProcessExcel\Properties\vssver2.scc'.
+29/11/2010 02:13:15 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\Properties\AssemblyInfo.cs'.
+29/11/2010 02:13:16 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ResponseConCom\Properties\vssver2.scc'.
+29/11/2010 02:13:17 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Security\Properties\AssemblyInfo.cs'.
+29/11/2010 02:13:17 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Security\Properties\vssver2.scc'.
+29/11/2010 02:13:19 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Unified\Properties\AssemblyInfo.cs'.
+29/11/2010 02:13:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Unified\Properties\vssver2.scc'.
+29/11/2010 02:13:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.UsersInformation\Properties\AssemblyInfo.cs'.
+29/11/2010 02:13:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.UsersInformation\Properties\vssver2.scc'.
+29/11/2010 02:13:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsAuthorizations.cs'.
+29/11/2010 02:13:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsEnabledAuthotizations.cs'.
+29/11/2010 02:13:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsErrorField.cs'.
+29/11/2010 02:13:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsFileStatus.cs'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsLine.cs'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsNotifications.cs'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsOrder.cs'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsOrderDetail.cs'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsPrint.cs'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsService.cs'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\clsUploadStatus.cs'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\CommonWeb.cs'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\OutsideTimeEntity.cs'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\vssver2.scc'.
+29/11/2010 02:13:21 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Code\Web.cd'.
+29/11/2010 02:13:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Data\ASPNETDB.MDF'.
+29/11/2010 02:13:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Data\aspnetdb_log.ldf'.
+29/11/2010 02:13:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Data\vssver2.scc'.
+29/11/2010 02:13:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Microsoft.ApplicationBlocks.Data.xml'.
+29/11/2010 02:13:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\msgboxvb.dll.refresh'.
+29/11/2010 02:13:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Televisa.BTSUnificacionOE.DataAccess.dll'.
+29/11/2010 02:13:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Televisa.BTSUnificacionOE.DataAccess.Entities.dll'.
+29/11/2010 02:13:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Televisa.BTSUnificacionOE.DataAccess.Entities.pdb'.
+29/11/2010 02:13:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Televisa.BTSUnificacionOE.DataAccess.pdb'.
+29/11/2010 02:13:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Televisa.BTSUnificacionOE.DataAccess.xml'.
+29/11/2010 02:13:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Televisa.BTSUnificacionOE.DataIntegration.dll'.
+29/11/2010 02:13:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Televisa.BTSUnificacionOE.DataIntegration.pdb'.
+29/11/2010 02:13:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Televisa.BTSUnificacionOE.DataIntegration.XML'.
+29/11/2010 02:13:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Televisa.Exceptions.dll'.
+29/11/2010 02:13:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\Televisa.Exceptions.pdb'.
+29/11/2010 02:13:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Bin\vssver2.scc'.
+29/11/2010 02:13:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Controles\CloseDays.ascx'.
+29/11/2010 02:13:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Controles\CloseDays.ascx.cs'.
+29/11/2010 02:13:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Controles\NotificationsControl.ascx'.
+29/11/2010 02:13:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Controles\NotificationsControl.ascx.cs'.
+29/11/2010 02:13:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\Controles\vssver2.scc'.
+29/11/2010 02:13:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\MasterPages\TemplateORDUNI.master'.
+29/11/2010 02:13:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\MasterPages\TemplateORDUNI.master.cs'.
+29/11/2010 02:13:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\MasterPages\vssver2.scc'.
+29/11/2010 02:13:28 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.AzManOp\App_Code\AzManVal.cs'.
+29/11/2010 02:13:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.AzManOp\App_Code\Validate.cs'.
+29/11/2010 02:13:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.AzManOp\App_Code\vssver2.scc'.
+29/11/2010 02:13:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.AzManOp\App_Data\ASPNETDB.MDF'.
+29/11/2010 02:13:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.AzManOp\App_Data\aspnetdb_log.ldf'.
+29/11/2010 02:13:29 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.AzManOp\App_Data\vssver2.scc'.
+29/11/2010 02:13:35 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\App_Code\BusinessEntity.cs'.
+29/11/2010 02:13:35 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\App_Code\ReceiveFile.cs'.
+29/11/2010 02:13:35 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\App_Code\vssver2.scc'.
+29/11/2010 02:13:36 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\Bin\IBM.Data.DB2.iSeries.dll'.
+29/11/2010 02:13:37 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\Bin\vssver2.scc'.
+29/11/2010 02:13:37 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\App_Code\ResponseFromConCom.cs'.
+29/11/2010 02:13:37 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\App_Code\vssver2.scc'.
+29/11/2010 02:13:38 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities.dll'.
+29/11/2010 02:13:38 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.BizTalk.BussinesEntities.pdb'.
+29/11/2010 02:13:38 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.BizTalk.DataAccess.dll'.
+29/11/2010 02:13:38 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.BizTalk.DataAccess.pdb'.
+29/11/2010 02:13:38 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.Common.dll'.
+29/11/2010 02:13:39 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.Common.pdb'.
+29/11/2010 02:13:39 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.DataAccess.Entities.dll'.
+29/11/2010 02:13:39 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.DataAccess.Entities.pdb'.
+29/11/2010 02:13:39 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.DataIntegration.dll'.
+29/11/2010 02:13:39 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.DataIntegration.pdb'.
+29/11/2010 02:13:39 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.DataIntegration.xml'.
+29/11/2010 02:13:39 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.Mail.dll'.
+29/11/2010 02:13:40 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.Mail.pdb'.
+29/11/2010 02:13:43 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.OrderStatus.dll'.
+29/11/2010 02:13:43 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.OrderStatus.pdb'.
+29/11/2010 02:13:44 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.Unified.dll'.
+29/11/2010 02:13:44 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.Unified.pdb'.
+29/11/2010 02:13:44 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.UsersInformation.dll'.
+29/11/2010 02:13:45 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.BTSUnificacionOE.UsersInformation.pdb'.
+29/11/2010 02:13:45 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.Exceptions.dll'.
+29/11/2010 02:13:45 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\Televisa.Exceptions.pdb'.
+29/11/2010 02:13:45 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ResponseFromConCom\Bin\vssver2.scc'.
+29/11/2010 02:13:45 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.Users\App_Code\UsersMail.cs'.
+29/11/2010 02:13:45 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.Users\App_Code\vssver2.scc'.
+29/11/2010 02:13:46 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.Business.Entities\FileProcessBE.cs'.
+29/11/2010 02:13:46 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.Business.Entities\ReceiveFile.Business.Entities.csproj'.
+29/11/2010 02:13:47 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.Business.Entities\ReceiveFile.Business.Entities.csproj.vspscc'.
+29/11/2010 02:13:47 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.Business.Entities\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:13:47 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.Business.Entities\vssver2.scc'.
+29/11/2010 02:13:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.DataAccess.Entities\ReceiveFile.DataAccess.Entities.csproj'.
+29/11/2010 02:13:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.DataAccess.Entities\ReceiveFile.DataAccess.Entities.csproj.vspscc'.
+29/11/2010 02:13:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.DataAccess.Entities\Televisa.BTSUnificacionOE.pfx'.
+29/11/2010 02:13:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.DataAccess.Entities\vssver2.scc'.
+29/11/2010 02:13:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\Televisa.BTSUOE.ReceiveFile\SendFileOrchestration.odx'.
+29/11/2010 02:13:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\Televisa.BTSUOE.ReceiveFile\Televisa.BTSUOE.ReceiveFile.btproj'.
+29/11/2010 02:13:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\Televisa.BTSUOE.ReceiveFile\Televisa.BTSUOE.ReceiveFile.btproj.vspscc'.
+29/11/2010 02:13:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\Televisa.BTSUOE.ReceiveFile\vssver2.scc'.
+29/11/2010 02:13:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.Exceptions\Properties\AssemblyInfo.cs'.
+29/11/2010 02:13:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.Exceptions\Properties\vssver2.scc'.
+29/11/2010 02:13:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.XmlSerializer\Properties\AssemblyInfo.cs'.
+29/11/2010 02:13:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.XmlSerializer\Properties\vssver2.scc'.
+29/11/2010 02:17:38 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\AS400\Conexion\Conexion\Conexion Fuente\MSSCCPRJ.SCC'.
+29/11/2010 02:17:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\E1000.cat'.
+29/11/2010 02:17:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\E100BW2K.CAT'.
+29/11/2010 02:17:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\NET8254X.INF'.
+29/11/2010 02:17:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\NETi557x.INF'.
+29/11/2010 02:17:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC 1\b57w2k.sys'.
+29/11/2010 02:17:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC 1\b57win32.inf'.
+29/11/2010 02:17:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC 1\b57xp32.sys'.
+29/11/2010 02:17:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\SAP\Fuentes\SAP_3.2.20\MSSCCPRJ.SCC'.
+29/11/2010 02:17:59 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\SAP\Fuentes\SAP_3.2.21\MSSCCPRJ.SCC'.
+29/11/2010 02:18:02 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\SAP\Fuentes\SAP_3.3.0\MSSCCPRJ.SCC'.
+29/11/2010 02:18:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Utilerias\Encriptador\MSSCCPRJ.SCC'.
+29/11/2010 02:18:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Utilerias\Encriptador Anterior\MSSCCPRJ.SCC'.
+29/11/2010 02:21:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Web References\WebReference\EvaluarCondicionesResult.datasource'.
+29/11/2010 02:21:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Web References\WebReference\motor.disco'.
+29/11/2010 02:21:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Web References\WebReference\motor.wsdl'.
+29/11/2010 02:21:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Web References\WebReference\Reference.cs'.
+29/11/2010 02:21:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Web References\WebReference\Reference.map'.
+29/11/2010 02:21:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.clsRequestConCom\Web References\WebReference\vssver2.scc'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\AzManService\ApplicationOperations.datasource'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\AzManService\AzManVal.disco'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\AzManService\AzManVal.wsdl'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\AzManService\Reference.cs'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\AzManService\Reference.map'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\AzManService\vssver2.scc'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\SpotRateWS\Reference.cs'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\SpotRateWS\Reference.map'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\SpotRateWS\SpotRate.disco'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\SpotRateWS\SpotRate.wsdl'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\SpotRateWS\SpotRateResponse.datasource'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\SpotRateWS\vssver2.scc'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\UsersMail\Reference.cs'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\UsersMail\Reference.map'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\UsersMail\UsersMail.disco'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\UsersMail\UsersMail.wsdl'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\UsersMail\vssver2.scc'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\WSSemanaConfirmacion\ObtenerConfiguracionResult.datasource'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\WSSemanaConfirmacion\Reference.cs'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\WSSemanaConfirmacion\Reference.map'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\WSSemanaConfirmacion\Semanaconfirmacion.disco'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\WSSemanaConfirmacion\Semanaconfirmacion.wsdl'.
+29/11/2010 02:21:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration\Web References\WSSemanaConfirmacion\vssver2.scc'.
+29/11/2010 02:21:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\AzManService\ApplicationOperations.datasource'.
+29/11/2010 02:21:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\AzManService\AzManVal.disco'.
+29/11/2010 02:21:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\AzManService\AzManVal.wsdl'.
+29/11/2010 02:21:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\AzManService\Reference.cs'.
+29/11/2010 02:21:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\AzManService\Reference.map'.
+29/11/2010 02:21:54 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\AzManService\vssver2.scc'.
+29/11/2010 02:21:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\UsersMail\Reference.cs'.
+29/11/2010 02:21:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\UsersMail\Reference.map'.
+29/11/2010 02:21:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\UsersMail\UsersMail.disco'.
+29/11/2010 02:21:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\UsersMail\UsersMail.wsdl'.
+29/11/2010 02:21:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.DataIntegration.IngresoOrdenes\Web References\UsersMail\vssver2.scc'.
+29/11/2010 02:21:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.ExcelBTSPipeLine\AsignacionClassLibrary\Properties\FtpProtocol.cs'.
+29/11/2010 02:22:05 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Web References\wsRequest\motor.disco'.
+29/11/2010 02:22:06 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Web References\wsRequest\motor.wsdl'.
+29/11/2010 02:22:06 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Web References\wsRequest\Reference.map'.
+29/11/2010 02:22:06 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Web References\wsRequest\Reference.odx'.
+29/11/2010 02:22:06 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Web References\wsRequest\Reference.xsd'.
+29/11/2010 02:22:06 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Orchestrations\Web References\wsRequest\vssver2.scc'.
+29/11/2010 02:22:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Web References\UsersMail\Reference.cs'.
+29/11/2010 02:22:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Web References\UsersMail\Reference.map'.
+29/11/2010 02:22:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Web References\UsersMail\UsersMail.disco'.
+29/11/2010 02:22:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Web References\UsersMail\UsersMail.wsdl'.
+29/11/2010 02:22:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Ordenes\Web References\UsersMail\vssver2.scc'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\ThemeORDUNI.css'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\vssver2.scc'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\AzManVal\AzManVal.disco'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\AzManVal\AzManVal.discomap'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\AzManVal\AzManVal.wsdl'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\AzManVal\vssver2.scc'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\ReceiveFile\ReceiveFile.disco'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\ReceiveFile\ReceiveFile.discomap'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\ReceiveFile\ReceiveFile.wsdl'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\ReceiveFile\vssver2.scc'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\UsersMail\UsersMail.disco'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\UsersMail\UsersMail.discomap'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\UsersMail\UsersMail.wsdl'.
+29/11/2010 02:22:24 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_WebReferences\UsersMail\vssver2.scc'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\App_WebReferences\ReceiveFileBTS\Televisa_BTSUOE_ReceiveFile_SendFileOrchestration_ReceiveFilePort.disco'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\App_WebReferences\ReceiveFileBTS\Televisa_BTSUOE_ReceiveFile_SendFileOrchestration_ReceiveFilePort.discomap'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\App_WebReferences\ReceiveFileBTS\Televisa_BTSUOE_ReceiveFile_SendFileOrchestration_ReceiveFilePort.wsdl'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni\App_WebReferences\ReceiveFileBTS\vssver2.scc'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni.Users\App_WebReferences\ReceiveBTS\Televisa_BTSUOE_ReceiveFile_SendFileOrchestration_ReceiveFilePort.disco'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni.Users\App_WebReferences\ReceiveBTS\Televisa_BTSUOE_ReceiveFile_SendFileOrchestration_ReceiveFilePort.discomap'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni.Users\App_WebReferences\ReceiveBTS\Televisa_BTSUOE_ReceiveFile_SendFileOrchestration_ReceiveFilePort.wsdl'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web.ReceiveFileOrdUni.Users\App_WebReferences\ReceiveBTS\vssver2.scc'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.Business.Entities\Properties\AssemblyInfo.cs'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.Business.Entities\Properties\vssver2.scc'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.DataAccess.Entities\Properties\AssemblyInfo.cs'.
+29/11/2010 02:22:25 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\ReceiveFile.DataAccess.Entities\Properties\vssver2.scc'.
+29/11/2010 02:22:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\Televisa.BTSUOE.ReceiveFile\Schemas\RequestFile.xsd'.
+29/11/2010 02:22:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUOE.ReceiveFile\Televisa.BTSUOE.ReceiveFile\Schemas\vssver2.scc'.
+29/11/2010 02:31:56 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2008\Sistema de control telefonico\Documentacion\Nueva informacion\mscomm\MSSCCPRJ.SCC'.
+29/11/2010 02:32:36 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\Activex\HSRichEdit\ssubtmr6\Stevemac\VB6\SSubTmr\MSSCCPRJ.SCC'.
+29/11/2010 02:32:56 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\AS400\Conexion\Conexion\Ejemplo Conexion\Ejemplo1\MSSCCPRJ.SCC'.
+29/11/2010 02:32:57 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\AS400\Conexion\Conexion\Ejemplo Conexion\Ejemplo2\MSSCCPRJ.SCC'.
+29/11/2010 02:33:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\E1000.cat'.
+29/11/2010 02:33:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\E100BW2K.CAT'.
+29/11/2010 02:33:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\NET8254X.INF'.
+29/11/2010 02:33:22 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\NETi557x.INF'.
+29/11/2010 02:33:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC 1\b57w2k.sys'.
+29/11/2010 02:33:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC 1\b57win32.inf'.
+29/11/2010 02:33:23 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC 1\b57xp32.sys'.
+29/11/2010 02:33:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\Antrior SAP_3.3.0\MSSCCPRJ.SCC'.
+29/11/2010 02:33:33 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.2.19\MSSCCPRJ.SCC'.
+29/11/2010 02:33:35 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.2.20\MSSCCPRJ.SCC'.
+29/11/2010 02:33:36 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.2.21\MSSCCPRJ.SCC'.
+29/11/2010 02:33:38 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.2.21 - copia\MSSCCPRJ.SCC'.
+29/11/2010 02:33:41 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.2.21 - copia (2)\MSSCCPRJ.SCC'.
+29/11/2010 02:33:42 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.0\MSSCCPRJ.SCC'.
+29/11/2010 02:33:44 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.10\MSSCCPRJ.SCC'.
+29/11/2010 02:33:50 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.10 Veracruz\MSSCCPRJ.SCC'.
+29/11/2010 02:33:52 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.11\MSSCCPRJ.SCC'.
+29/11/2010 02:33:55 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.11-A\MSSCCPRJ.SCC'.
+29/11/2010 02:33:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.12\MSSCCPRJ.SCC'.
+29/11/2010 02:34:01 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.13\MSSCCPRJ.SCC'.
+29/11/2010 02:34:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.14\MSSCCPRJ.SCC'.
+29/11/2010 02:34:07 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.15\MSSCCPRJ.SCC'.
+29/11/2010 02:34:09 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.16\MSSCCPRJ.SCC'.
+29/11/2010 02:34:13 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.17\MSSCCPRJ.SCC'.
+29/11/2010 02:34:17 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.17AObsoleto\MSSCCPRJ.SCC'.
+29/11/2010 02:34:20 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.17B Obsoleto\MSSCCPRJ.SCC'.
+29/11/2010 02:34:26 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.18\MSSCCPRJ.SCC'.
+29/11/2010 02:34:30 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.18 Obsoleto\MSSCCPRJ.SCC'.
+29/11/2010 02:34:36 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.18B\MSSCCPRJ.SCC'.
+29/11/2010 02:34:41 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.2\MSSCCPRJ.SCC'.
+29/11/2010 02:34:43 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.2 - copia\MSSCCPRJ.SCC'.
+29/11/2010 02:34:45 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.3\MSSCCPRJ.SCC'.
+29/11/2010 02:34:47 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.4\MSSCCPRJ.SCC'.
+29/11/2010 02:34:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.5\MSSCCPRJ.SCC'.
+29/11/2010 02:34:51 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.6\MSSCCPRJ.SCC'.
+29/11/2010 02:34:53 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.7\MSSCCPRJ.SCC'.
+29/11/2010 02:34:58 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.8\MSSCCPRJ.SCC'.
+29/11/2010 02:35:00 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\SAP\Fuentes\SAP_3.3.9\MSSCCPRJ.SCC'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Calendar_scheduleHS.png'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\ColumnTable.PNG'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Footer.png'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Header.jpg'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Header.png'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\HeaderLine.PNG'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Loading.gif'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Logo.png'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\menu-bg.gif'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\ProgressBar.gif'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\RigthPane.jpg'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\RigthPane.png'.
+29/11/2010 02:38:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\vssver2.scc'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnAceptar.png'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnAgregarTodas.PNG'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnAgregarUna.PNG'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnAutorizar.png'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnCancelar.png'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnExcel.PNG'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnGuardarConfiguracion.PNG'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnQuitarTodas.PNG'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnQuitarUna.PNG'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnRechazar.png'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnRechazarLineas.PNG'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnRegresar.png'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnReprocesar.png'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnReprocesarEncabezado.PNG'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\btnUpload.PNG'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\butdetails.png'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\but_ingresar.gif'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\imgAuthorization.png'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\imgBad.gif'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\imgGood.gif'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\imgReprocess.png'.
+29/11/2010 02:48:48 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\imgSearch.PNG'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\vssver2.scc'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Buttons\WaitImage.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Login\Copia de LoginTemplate.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Login\Ingresar.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Login\Ingresar.PNG'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Login\LoginBottom.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Login\LoginHeaderRight.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Login\LoginLeft.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Login\LoginRight.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Login\LoginTemplate.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Login\vssver2.scc'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Menu\Arrow_left.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Menu\Arrow_right.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Menu\Collapse.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Menu\EID.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Menu\EII.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Menu\Element.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Menu\ESD.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Menu\ESI.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Menu\Expand.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\Menu\vssver2.scc'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\TreeMenu\Arrow_left.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\TreeMenu\Arrow_right.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\TreeMenu\Collapse.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\TreeMenu\EID.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\TreeMenu\EII.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\TreeMenu\Element.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\TreeMenu\ESD.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\TreeMenu\ESI.png'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\TreeMenu\Expand.gif'.
+29/11/2010 02:48:49 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\PROYECTOS NET 2005\CódigoORDUNIv2\Televisa.BTSUnificacionOE.Web\App_Themes\ThemeORDUNI\Images\TreeMenu\vssver2.scc'.
+29/11/2010 02:52:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\Drivers\IA32\NET8254X.DIN'.
+29/11/2010 02:52:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\Drivers\IA32\net82557.din'.
+29/11/2010 02:52:03 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\inetwh32.dll'.
+29/11/2010 02:52:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\inetwh32.dl_'.
+29/11/2010 02:52:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\PROSETP.CNT'.
+29/11/2010 02:52:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\prosetp.cn_'.
+29/11/2010 02:52:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\PROSETP.HLP'.
+29/11/2010 02:52:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\prosetp.hl_'.
+29/11/2010 02:52:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\prosetp.reg'.
+29/11/2010 02:52:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\roboex32.dll'.
+29/11/2010 02:52:04 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\roboex32.dl_'.
+29/11/2010 02:56:46 p.m.	Se Cerro la aplicación
+29/11/2010 02:58:07 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\Drivers\IA32\NET8254X.DIN'.
+29/11/2010 02:58:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\Drivers\IA32\net82557.din'.
+29/11/2010 02:58:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\inetwh32.dll'.
+29/11/2010 02:58:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\inetwh32.dl_'.
+29/11/2010 02:58:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\PROSETP.CNT'.
+29/11/2010 02:58:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\prosetp.cn_'.
+29/11/2010 02:58:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\PROSETP.HLP'.
+29/11/2010 02:58:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\prosetp.hl_'.
+29/11/2010 02:58:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\prosetp.reg'.
+29/11/2010 02:58:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\roboex32.dll'.
+29/11/2010 02:58:08 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\roboex32.dl_'.
+29/11/2010 03:00:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\PROSET+\WIN95\prosetfs.cnt'.
+29/11/2010 03:00:27 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\PROSET+\WIN95\prosetfs.hlp'.
+29/11/2010 03:01:44 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\PROSET+\WIN95\prosetfs.cnt'.
+29/11/2010 03:01:44 p.m.	Acceso denegado a la ruta de acceso 'I:\PROYECTOS\\INTERMEX\SAP\Desarrollo\Correo\Support\NIC\Windows\PROSet2\IA32\PROSET+\WIN95\prosetfs.hlp'.

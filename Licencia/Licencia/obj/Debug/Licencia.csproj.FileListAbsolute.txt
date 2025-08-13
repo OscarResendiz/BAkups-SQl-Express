@@ -1,0 +1,12 @@
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\obj\Debug\ResolveAssemblyReference.cache
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\obj\Debug\Licencia.Form1.resources
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\obj\Debug\Licencia.Properties.Resources.resources
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\obj\Debug\Licencia.csproj.GenerateResource.Cache
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\bin\Debug\Licencia.exe
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\bin\Debug\Licencia.pdb
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\bin\Debug\DialogConecSQL2005.dll
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\bin\Debug\Validador.dll
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\bin\Debug\DialogConecSQL2005.pdb
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\bin\Debug\Validador.pdb
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\obj\Debug\Licencia.exe
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Licencia\Licencia\obj\Debug\Licencia.pdb

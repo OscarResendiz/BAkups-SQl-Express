@@ -1,0 +1,39 @@
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\bin\Debug\Bakup SQLExpress.exe
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\bin\Debug\Bakup SQLExpress.pdb
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\ResolveAssemblyReference.cache
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.Properties.Resources.resources
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup SQLExpress.csproj.GenerateResource.Cache
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup SQLExpress.exe
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup SQLExpress.pdb
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.Principal.resources
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\bin\Debug\DialogConecSQL2005.dll
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\bin\Debug\DialogConecSQL2005.pdb
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormRegPassword.resources
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\bin\Debug\Validador.dll
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\bin\Debug\Validador.pdb
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormPassword.resources
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormTareas.resources
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormTarea.resources
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormMensajes.resources
+E:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormLicencia.resources
+D:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup SQLExpress.exe
+D:\PROYECTOS\PROYECTOS NET 2008\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup SQLExpress.pdb
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup SQLExpress.exe
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup SQLExpress.pdb
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\bin\Debug\Bakup SQLExpress.exe
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\bin\Debug\Bakup SQLExpress.pdb
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\bin\Debug\DialogConecSQL2005.dll
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\bin\Debug\DialogConecSQL2005.pdb
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormLicencia.resources
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormMensajes.resources
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormPassword.resources
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormRegPassword.resources
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormTarea.resources
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.FormTareas.resources
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.Principal.resources
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup_SQLExpress.Properties.Resources.resources
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROYECTOS\PROYECTOS NET  2010\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\memoria\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup SQLExpress.exe
+E:\memoria\BAkups SQl Express\Programa\Bakup SQLExpress\Bakup SQLExpress\obj\Debug\Bakup SQLExpress.pdb
