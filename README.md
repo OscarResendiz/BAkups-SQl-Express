@@ -1,4 +1,4 @@
-<h1>Programa que automatiza la generacion de respaldos</h1>
+<h1>Programa que automatiza la generacion de respaldos de base de datos SQL Server</h1>
 </br>
 <img width="520" height="212" alt="image" src="https://github.com/user-attachments/assets/4c3aa69b-7a7e-41f6-8029-68db5b9b522e" /> 
 </br>
